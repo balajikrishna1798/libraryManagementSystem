@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: balaj
+Build-Jdk: 17.0.2
+Class-Path: mysql-connector-java-8.0.27.jar protobuf-java-3.11.4.jar
+Main-Class: com.project.libraryManagementSystem.Controller
+Created-By: Maven Integration for Eclipse
+
