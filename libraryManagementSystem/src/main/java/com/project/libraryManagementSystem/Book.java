@@ -6,6 +6,10 @@ public class Book {
 	private String BookName;
 	private String AuthorName;
 
+
+
+
+
 	public String getBookId() {
 		return BookId;
 	}
